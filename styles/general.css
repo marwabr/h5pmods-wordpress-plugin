@@ -1,3 +1,11 @@
 .h5p-container {
-  border: 0.1em dashed #ccc;
+  border: 0.1em;
+}
+.h5p-joubelui-button {
+  background-color: #edbe00;
+}
+
+.h5p-alternative-container {
+  background-color: #339b9a;
+	
 }
